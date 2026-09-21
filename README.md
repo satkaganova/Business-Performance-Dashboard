@@ -35,6 +35,9 @@ The analysis covers sales and profitability, operational logistics, warehouse pe
 Tools
 * Power BI
 * DAX
+
+  ## Dashboard Preview
+  ![Business Performance Dashboard](dashboard-preview.png)
 * Data Modeling
 * Data Visualization
 * Business Analytics
